@@ -1,10 +1,15 @@
+
 body{
 	margin: 0;
 	font-family: Helvetica, Arial, sans-serif;
+	font-size: 20px;
+	font-style: bold;
+	line-height: 30px;
 }
 
+
 header{
-	background-color: #D67308;
+	background-color: #8ED3F0;
 	text-align: center;
 	padding-top: 50px;
 	padding-bottom: 50px;
@@ -20,3 +25,40 @@ header img{
 	width: 300px;
 	border: 10px solid #E4C30A;
 }
+
+main{
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 20px;
+}
+
+main img{
+	max-width: 100%;
+}
+
+h2{
+	color: #8ED3F0;
+	font-size: 30px;
+}
+
+a{
+	color: #8ED3F0;
+}
+
+a:hover{
+	color: #E4C30A;
+}
+
+footer{
+	background-color: #8ED3F0;
+	text-align: center;
+	color: white;
+	padding: 50px;
+}
+
+footer p{
+	margin: 0;
+}
+
+
+
